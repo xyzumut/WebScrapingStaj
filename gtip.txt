@@ -1,0 +1,497 @@
+
+Section I|LIVE ANIMALS; ANIMAL PRODUCTS
+Chapter 1|Live animals
+Heading 0101|Live horses, asses, mules and hinnies.
+0101.2|- Horses  :
+0101.21|-- Pure-bred breeding animals
+0101.29|-- Other
+0101.30|- Asses
+0101.90|- Other
+Heading 0102|Live bovine animals.
+0102.2|- Cattle  :
+0102.21|-- Pure-bred breeding animals
+0102.29|-- Other
+0102.3|- Buffalo  :
+0102.31|-- Pure-bred breeding animals
+0102.39|-- Other
+0102.90|- Other
+Heading 0103|Live swine.
+0103.10|- Pure-bred breeding animals
+0103.9|- Other  :
+0103.91|-- Weighing less than 50 kg
+0103.92|-- Weighing 50 kg or more
+Heading 0104|Live sheep and goats.
+0104.10|- Sheep
+0104.20|- Goats
+Heading 0105|Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls.
+0105.1|- Weighing not more than 185 g  :
+0105.11|-- Fowls of the species Gallus domesticus
+0105.12|-- Turkeys
+0105.13|-- Ducks
+0105.14|-- Geese
+0105.15|-- Guinea fowls
+0105.9|- Other  :
+0105.94|-- Fowls of the species Gallus domesticus
+0105.99|-- Other
+Heading 0106|Other live animals.
+0106.1|- Mammals  :
+0106.11|-- Primates
+0106.12|-- Whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals of the order Sirenia); seals, sea lions and walruses (mammals of the suborder Pinnipedia)
+0106.13|-- Camels and other camelids (Camelidae)
+0106.14|-- Rabbits and hares
+0106.19|-- Other
+0106.20|- Reptiles (including snakes and turtles)
+0106.3|- Birds  :
+0106.31|-- Birds of prey
+0106.32|-- Psittaciformes (including parrots, parakeets, macaws and cockatoos)
+0106.33|-- Ostriches; emus (Dromaius novaehollandiae)
+0106.39|-- Other
+0106.4|- Insects  :
+0106.41|-- Bees
+0106.49|-- Other
+0106.90|- Other
+Chapter 2|Meat and edible meat offal
+Heading 0201|Meat of bovine animals, fresh or chilled.
+0201.10|- Carcasses and half-carcasses
+0201.20|- Other cuts with bone in
+0201.30|- Boneless
+Heading 0202|Meat of bovine animals, frozen.
+0202.10|- Carcasses and half-carcasses
+0202.20|- Other cuts with bone in
+0202.30|- Boneless
+Heading 0203|Meat of swine, fresh, chilled or frozen.
+0203.1|- Fresh or chilled  :
+0203.11|-- Carcasses and half-carcasses
+0203.12|-- Hams, shoulders and cuts thereof, with bone in
+0203.19|-- Other
+0203.2|- Frozen  :
+0203.21|-- Carcasses and half-carcasses
+0203.22|-- Hams, shoulders and cuts thereof, with bone in
+0203.29|-- Other
+Heading 0204|Meat of sheep or goats, fresh, chilled or frozen.
+0204.10|- Carcasses and half-carcasses of lamb, fresh or chilled
+0204.2|- Other meat of sheep, fresh or chilled  :
+0204.21|-- Carcasses and half-carcasses
+0204.22|-- Other cuts with bone in
+0204.23|-- Boneless
+0204.30|- Carcasses and half-carcasses of lamb, frozen
+0204.4|- Other meat of sheep, frozen  :
+0204.41|-- Carcasses and half-carcasses
+0204.42|-- Other cuts with bone in
+0204.43|-- Boneless
+0204.50|- Meat of goats
+Heading 0205|Meat of horses, asses, mules or hinnies, fresh, chilled or frozen.
+0205.00|Meat of horses, asses, mules or hinnies, fresh, chilled or frozen.
+Heading 0206|Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen.
+0206.10|- Of bovine animals, fresh or chilled
+0206.2|- Of bovine animals, frozen  :
+0206.21|-- Tongues
+0206.22|-- Livers
+0206.29|-- Other
+0206.30|- Of swine, fresh or chilled
+0206.4|- Of swine, frozen  :
+0206.41|-- Livers
+0206.49|-- Other
+0206.80|- Other, fresh or chilled
+0206.90|- Other, frozen
+Heading 0207|Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen.
+0207.1|- Of fowls of the species Gallus domesticus  :
+0207.11|-- Not cut in pieces, fresh or chilled
+0207.12|-- Not cut in pieces, frozen
+0207.13|-- Cuts and offal, fresh or chilled
+0207.14|-- Cuts and offal, frozen
+0207.2|- Of turkeys  :
+0207.24|-- Not cut in pieces, fresh or chilled
+0207.25|-- Not cut in pieces, frozen
+0207.26|-- Cuts and offal, fresh or chilled
+0207.27|-- Cuts and offal, frozen
+0207.4|- Of ducks  :
+0207.41|-- Not cut in pieces, fresh or chilled
+0207.42|-- Not cut in pieces, frozen
+0207.43|-- Fatty livers, fresh or chilled
+0207.44|-- Other, fresh or chilled
+0207.45|-- Other, frozen
+0207.5|- Of geese  :
+0207.51|-- Not cut in pieces, fresh or chilled
+0207.52|-- Not cut in pieces, frozen
+0207.53|-- Fatty livers, fresh or chilled
+0207.54|-- Other, fresh or chilled
+0207.55|-- Other, frozen
+0207.60|- Of guinea fowls
+Heading 0208|Other meat and edible meat offal, fresh, chilled or frozen.
+0208.10|- Of rabbits or hares
+0208.30|- Of primates
+0208.40|- Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia)
+0208.50|- Of reptiles (including snakes and turtles)
+0208.60|- Of camels and other camelids (Camelidae)
+0208.90|- Other
+Heading 0209|Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked.
+0209.10|- Of pigs
+0209.90|- Other
+Heading 0210|Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal.
+0210.1|- Meat of swine  :
+0210.11|-- Hams, shoulders and cuts thereof, with bone in
+0210.12|-- Bellies (streaky) and cuts thereof
+0210.19|-- Other
+0210.20|- Meat of bovine animals
+0210.9|- Other, including edible flours and meals of meat or meat offal  :
+0210.91|-- Of primates
+0210.92|-- Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia)
+0210.93|-- Of reptiles (including snakes and turtles)
+0210.99|-- Other
+Chapter 3|Fish and crustaceans, molluscs and other aquatic invertebrates
+Heading 0301|Live fish.
+0301.1|- Ornamental fish  :
+0301.11|-- Freshwater
+0301.19|-- Other
+0301.9|- Other live fish  :
+0301.91|-- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)
+0301.92|-- Eels (Anguilla spp.)
+0301.93|-- Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)
+0301.94|-- Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)
+0301.95|-- Southern bluefin tunas (Thunnus maccoyii)
+0301.99|-- Other
+Heading 0302|Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04.
+0302.1|- Salmonidae, excluding edible fish offal of subheadings 0302.91 to 0302.99 :
+0302.11|-- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)
+0302.13|-- Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)
+0302.14|-- Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)
+0302.19|-- Other
+0302.2|- Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae), excluding edible fish offal of subheadings 0302.91 to 0302.99 :
+0302.21|-- Halibut (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)
+0302.22|-- Plaice (Pleuronectes platessa)
+0302.23|-- Sole (Solea spp.)
+0302.24|-- Turbots (Psetta maxima)
+0302.29|-- Other
+0302.3|- Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis), excluding edible fish offal of subheadings 0302.91 to 0302.99 :
+0302.31|-- Albacore or longfinned tunas (Thunnus alalunga)
+0302.32|-- Yellowfin tunas (Thunnus albacares)
+0302.33|-- Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)
+0302.34|-- Bigeye tunas (Thunnus obesus)
+0302.35|-- Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)
+0302.36|-- Southern bluefin tunas (Thunnus maccoyii)
+0302.39|-- Other
+0302.4|- Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.), sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), Indian mackerels (Rastrelliger spp.), seerfishes (Scomberomorus spp.), jack and horse mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia (Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury (Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus), swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae), excluding edible fish offal of subheadings 0302.91 to 0302.99 :
+0302.41|-- Herrings (Clupea harengus, Clupea pallasii)
+0302.42|-- Anchovies (Engraulis spp.)
+0302.43|-- Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)
+0302.44|-- Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)
+0302.45|-- Jack and horse mackerel (Trachurus spp.)
+0302.46|-- Cobia (Rachycentron canadum)
+0302.47|-- Swordfish (Xiphias gladius)
+0302.49|-- Other
+0302.5|- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, excluding edible fish offal of subheadings 0302.91 to 0302.99 :
+0302.51|-- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+0302.52|-- Haddock (Melanogrammus aeglefinus)
+0302.53|-- Coalfish (Pollachius virens)
+0302.54|-- Hake (Merluccius spp., Urophycis spp.)
+0302.55|-- Alaska Pollock (Theragra chalcogramma)
+0302.56|-- Blue whitings (Micromesistius poutassou, Micromesistius australis)
+0302.59|-- Other
+0302.7|- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.), excluding edible fish offal of subheadings 0302.91 to 0302.99 :
+0302.71|-- Tilapias (Oreochromis spp.)
+0302.72|-- Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+0302.73|-- Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)
+0302.74|-- Eels (Anguilla spp.)
+0302.79|-- Other
+0302.8|- Other fish, excluding edible fish offal of subheadings 0302.91 to 0302.99 :
+0302.81|-- Dogfish and other sharks
+0302.82|-- Rays and skates (Rajidae)
+0302.83|-- Toothfish (Dissostichus spp.)
+0302.84|-- Seabass (Dicentrarchus spp.)
+0302.85|-- Seabream (Sparidae)
+0302.89|-- Other
+0302.9|- Livers, roes, milt, fish fins, heads, tails, maws and other edible fish offal  :
+0302.91|-- Livers, roes and milt
+0302.92|-- Shark fins
+0302.99|-- Other
+Heading 0303|Fish, frozen, excluding fish fillets and other fish meat of heading 03.04.
+0303.1|- Salmonidae, excluding edible fish offal of subheadings 0303.91 to 0303.99 :
+0303.11|-- Sockeye salmon (red salmon) (Oncorhynchus nerka)
+0303.12|-- Other Pacific salmon (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)
+0303.13|-- Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)
+0303.14|-- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)
+0303.19|-- Other
+0303.2|- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.), excluding edible fish offal of subheadings 0303.91 to 0303.99 :
+0303.23|-- Tilapias (Oreochromis spp.)
+0303.24|-- Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+0303.25|-- Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)
+0303.26|-- Eels (Anguilla spp.)
+0303.29|-- Other
+0303.3|- Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae), excluding edible fish offal of subheadings 0303.91 to 0303.99 :
+0303.31|-- Halibut (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)
+0303.32|-- Plaice (Pleuronectes platessa)
+0303.33|-- Sole (Solea spp.)
+0303.34|-- Turbots (Psetta maxima)
+0303.39|-- Other
+0303.4|- Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis), excluding edible fish offal of subheadings 0303.91 to 0303.99 :
+0303.41|-- Albacore or longfinned tunas (Thunnus alalunga)
+0303.42|-- Yellowfin tunas (Thunnus albacares)
+0303.43|-- Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)
+0303.44|-- Bigeye tunas (Thunnus obesus)
+0303.45|-- Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)
+0303.46|-- Southern bluefin tunas (Thunnus maccoyii)
+0303.49|-- Other
+0303.5|- Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.), sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), Indian mackerels (Rastrelliger spp.), seerfishes (Scomberomorus spp), jack and horse mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia (Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury (Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus), swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae), excluding edible fish offal of subheadings 0303.91 to 0303.99 :
+0303.51|-- Herrings (Clupea harengus, Clupea pallasii)
+0303.53|-- Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)
+0303.54|-- Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)
+0303.55|-- Jack and horse mackerel (Trachurus spp.)
+0303.56|-- Cobia (Rachycentron canadum)
+0303.57|-- Swordfish (Xiphias gladius)
+0303.59|-- Other
+0303.6|- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, excluding edible fish offal of subheadings 0303.91 to 0303.99 :
+0303.63|-- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+0303.64|-- Haddock (Melanogrammus aeglefinus)
+0303.65|-- Coalfish (Pollachius virens)
+0303.66|-- Hake (Merluccius spp., Urophycis spp.)
+0303.67|-- Alaska Pollock (Theragra chalcogramma)
+0303.68|-- Blue whitings (Micromesistius poutassou, Micromesistius australis)
+0303.69|-- Other
+0303.8|- Other fish, excluding edible fish offal of subheadings 0303.91 to 0303.99 :
+0303.81|-- Dogfish and other sharks
+0303.82|-- Rays and skates (Rajidae)
+0303.83|-- Toothfish (Dissostichus spp.)
+0303.84|-- Seabass (Dicentrarchus spp.)
+0303.89|-- Other
+0303.9|- Livers, roes, milt, fish fins, heads, tails, maws and other edible fish offal  :
+0303.91|-- Livers, roes and milt
+0303.92|-- Shark fins
+0303.99|-- Other
+Heading 0304|Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen.
+0304.3|- Fresh or chilled fillets of tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)  :
+0304.31|-- Tilapias (Oreochromis spp.)
+0304.32|-- Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+0304.33|-- Nile Perch (Lates niloticus)
+0304.39|-- Other
+0304.4|- Fresh or chilled fillets of other fish  :
+0304.41|-- Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Huchohucho)
+0304.42|-- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)
+0304.43|-- Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae)
+0304.44|-- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae
+0304.45|-- Swordfish (Xiphias gladius)
+0304.46|-- Toothfish (Dissostichus spp.)
+0304.47|-- Dogfish and other sharks
+0304.48|-- Rays and skates (Rajidae)
+0304.49|-- Other
+0304.5|- Other, fresh or chilled  :
+0304.51|-- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)
+0304.52|-- Salmonidae
+0304.53|-- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae
+0304.54|-- Swordfish (Xiphias gladius)
+0304.55|-- Toothfish (Dissostichus spp.)
+0304.56|-- Dogfish and other sharks
+0304.57|-- Rays and skates (Rajidae)
+0304.59|-- Other
+0304.6|- Frozen fillets of tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)  :
+0304.61|-- Tilapias (Oreochromis spp.)
+0304.62|-- Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)
+0304.63|-- Nile Perch (Lates niloticus)
+0304.69|-- Other
+0304.7|- Frozen fillets of fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae  :
+0304.71|-- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+0304.72|-- Haddock (Melanogrammus aeglefinus)
+0304.73|-- Coalfish (Pollachius virens)
+0304.74|-- Hake (Merluccius spp., Urophycis spp.)
+0304.75|-- Alaska Pollock (Theragra chalcogramma)
+0304.79|-- Other
+0304.8|- Frozen fillets of other fish  :
+0304.81|-- Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Huchohucho)
+0304.82|-- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)
+0304.83|-- Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae)
+0304.84|-- Swordfish (Xiphias gladius)
+0304.85|-- Toothfish (Dissostichus spp.)
+0304.86|-- Herrings (Clupea harengus, Clupea pallasii)
+0304.87|-- Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)
+0304.88|-- Dogfish, other sharks, rays and skates (Rajidae)
+0304.89|-- Other
+0304.9|- Other, frozen  :
+0304.91|-- Swordfish (Xiphias gladius)
+0304.92|-- Toothfish (Dissostichus spp.)
+0304.93|-- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)
+0304.94|-- Alaska Pollock (Theragra chalcogramma)
+0304.95|-- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than Alaska Pollock (Theragra chalcogramma)
+0304.96|-- Dogfish and other sharks
+0304.97|-- Rays and skates (Rajidae)
+0304.99|-- Other
+Heading 0305|Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process.
+0305.20|- Livers, roes and milt of fish, dried, smoked, salted or in brine
+0305.3|- Fish fillets, dried, salted or in brine, but not smoked  :
+0305.31|-- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)
+0305.32|-- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae
+0305.39|-- Other
+0305.4|- Smoked fish, including fillets, other than edible fish offal  :
+0305.41|-- Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)
+0305.42|-- Herrings (Clupea harengus, Clupea pallasii)
+0305.43|-- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)
+0305.44|-- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)
+0305.49|-- Other
+0305.5|- Dried fish, other than edible fish offal, whether or not salted but not smoked  :
+0305.51|-- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+0305.52|-- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)
+0305.53|-- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+0305.54|-- Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.), sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), Indian mackerels (Rastrelliger spp.), seerfishes (Scomberomorus spp.), jack and horse mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia (Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury (Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus), swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae)
+0305.59|-- Other
+0305.6|- Fish, salted but not dried or smoked and fish in brine, other than edible fish offal  :
+0305.61|-- Herrings (Clupea harengus, Clupea pallasii)
+0305.62|-- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)
+0305.63|-- Anchovies (Engraulis spp.)
+0305.64|-- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)
+0305.69|-- Other
+0305.7|- Fish fins, heads, tails, maws and other edible fish offal  :
+0305.71|-- Shark fins
+0305.72|-- Fish heads, tails and maws
+0305.79|-- Other
+Heading 0306|Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine.
+0306.1|- Frozen  :
+0306.11|-- Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)
+0306.12|-- Lobsters (Homarus spp.)
+0306.14|-- Crabs
+0306.15|-- Norway lobsters (Nephrops norvegicus)
+0306.16|-- Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)
+0306.17|-- Other shrimps and prawns
+0306.19|-- Other
+0306.3|- Live, fresh or chilled  :
+0306.31|-- Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)
+0306.32|-- Lobsters (Homarus spp.)
+0306.33|-- Crabs
+0306.34|-- Norway lobsters (Nephrops norvegicus)
+0306.35|-- Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)
+0306.36|-- Other shrimps and prawns
+0306.39|-- Other
+0306.9|- Other  :
+0306.91|-- Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)
+0306.92|-- Lobsters (Homarus spp.)
+0306.93|-- Crabs
+0306.94|-- Norway lobsters (Nephrops norvegicus)
+0306.95|-- Shrimps and prawns
+0306.99|-- Other
+Heading 0307|Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process.
+0307.1|- Oysters  :
+0307.11|-- Live, fresh or chilled
+0307.12|-- Frozen
+0307.19|-- Other
+0307.2|- Scallops and other molluscs of the family Pectinidae :
+0307.21|-- Live, fresh or chilled
+0307.22|-- Frozen
+0307.29|-- Other
+0307.3|- Mussels (Mytilus spp., Perna spp.)  :
+0307.31|-- Live, fresh or chilled
+0307.32|-- Frozen
+0307.39|-- Other
+0307.4|- Cuttle fish and squid  :
+0307.42|-- Live, fresh or chilled
+0307.43|-- Frozen
+0307.49|-- Other
+0307.5|- Octopus (Octopus spp.)  :
+0307.51|-- Live, fresh or chilled
+0307.52|-- Frozen
+0307.59|-- Other
+0307.60|- Snails, other than sea snails
+0307.7|- Clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae)  :
+0307.71|-- Live, fresh or chilled
+0307.72|-- Frozen
+0307.79|-- Other
+0307.8|- Abalone (Haliotis spp.) and stromboid conchs (Strombus spp.)  :
+0307.81|-- Live, fresh or chilled abalone (Haliotis spp.)
+0307.82|-- Live, fresh or chilled stromboid conchs (Strombus spp.)
+0307.83|-- Frozen abalone (Haliotis spp.)
+0307.84|-- Frozen stromboid conchs (Strombus spp.)
+0307.87|-- Other abalone (Haliotis spp.)
+0307.88|-- Other stromboid conchs (Strombus spp.)
+0307.9|- Other  :
+0307.91|-- Live, fresh or chilled
+0307.92|-- Frozen
+0307.99|-- Other
+Heading 0308|Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process.
+0308.1|- Sea cucumbers (Stichopus japonicus, Holothuroidea)  :
+0308.11|-- Live, fresh or chilled
+0308.12|-- Frozen
+0308.19|-- Other
+0308.2|- Sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus)  :
+0308.21|-- Live, fresh or chilled
+0308.22|-- Frozen
+0308.29|-- Other
+0308.30|- Jellyfish (Rhopilema spp.)
+0308.90|- Other
+Heading 0309|Flours, meals and pellets of fish, crustaceans, molluscs and other aquatic invertebrates, fit for human consumption.
+0309.10|- Of fish
+0309.90|- Other
+Chapter 4|Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included
+Heading 0401|Milk and cream, not concentrated nor containing added sugar or other sweetening matter.
+0401.10|- Of a fat content, by weight, not exceeding 1 %
+0401.20|- Of a fat content, by weight, exceeding 1 % but not exceeding 6 %
+0401.40|- Of a fat content, by weight, exceeding 6 % but not exceeding 10 %
+0401.50|- Of a fat content, by weight, exceeding 10 %
+Heading 0402|Milk and cream, concentrated or containing added sugar or other sweetening matter.
+0402.10|- In powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 %
+0402.2|- In powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 %  :
+0402.21|-- Not containing added sugar or other sweetening matter
+0402.29|-- Other
+0402.9|- Other  :
+0402.91|-- Not containing added sugar or other sweetening matter
+0402.99|-- Other
+Heading 0403|Yogurt; buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa.
+0403.20|- Yogurt
+0403.90|- Other
+Heading 0404|Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not containing added sugar or other sweetening matter, not elsewhere specified or included.
+0404.10|- Whey and modified whey, whether or not concentrated or containing added sugar or other sweetening matter
+0404.90|- Other
+Heading 0405|Butter and other fats and oils derived from milk; dairy spreads.
+0405.10|- Butter
+0405.20|- Dairy spreads
+0405.90|- Other
+Heading 0406|Cheese and curd.
+0406.10|- Fresh (unripened or uncured) cheese, including whey cheese, and curd
+0406.20|- Grated or powdered cheese, of all kinds
+0406.30|- Processed cheese, not grated or powdered
+0406.40|- Blue-veined cheese and other cheese containing veins produced by Penicillium roqueforti
+0406.90|- Other cheese
+Heading 0407|Birds' eggs, in shell, fresh, preserved or cooked.
+0407.1|- Fertilised eggs for incubation  :
+0407.11|-- Of fowls of the species Gallus domesticus
+0407.19|-- Other
+0407.2|- Other fresh eggs  :
+0407.21|-- Of fowls of the species Gallus domesticus
+0407.29|-- Other
+0407.90|- Other
+Heading 0408|Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not containing added sugar or other sweetening matter.
+0408.1|- Egg yolks  :
+0408.11|-- Dried
+0408.19|-- Other
+0408.9|- Other  :
+0408.91|-- Dried
+0408.99|-- Other
+Heading 0409|Natural honey.
+0409.00|Natural honey.
+Heading 0410|Insects and other edible products of animal origin, not elsewhere specified or included.
+0410.10|- Insects
+0410.90|- Other
+Chapter 5|Products of animal origin, not elsewhere specified or included
+Heading 0501|Human hair, unworked, whether or not washed or scoured; waste of human hair.
+0501.00|Human hair, unworked, whether or not washed or scoured; waste of human hair.
+Heading 0502|Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair.
+0502.10|- Pigs', hogs' or boars' bristles and hair and waste thereof
+0502.90|- Other
+Heading 0503|[deleted]
+Heading 0504|Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked.
+0504.00|Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked.
+Heading 0505|Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked than cleaned, disinfected or treated for preservation; powder and waste of feathers or parts of feathers.
+0505.10|- Feathers of a kind used for stuffing; down
+0505.90|- Other
+Heading 0506|Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised; powder and waste of these products.
+0506.10|- Ossein and bones treated with acid
+0506.90|- Other
+Heading 0507|Ivory, tortoise-shell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder and waste of these products.
+0507.10|- Ivory; ivory powder and waste
+0507.90|- Other
+Heading 0508|Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof.
+0508.00|Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or simply prepared but not cut to shape, powder and waste thereof.
+Heading 0509|[deleted]
+Heading 0510|Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved.
+0510.00|Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical products, fresh, chilled, frozen or otherwise provisionally preserved.
+Heading 0511|Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption.
+0511.10|- Bovine semen
+0511.9|- Other  :
+0511.91|-- Products of fish or crustaceans, molluscs or other aquatic invertebrates; dead animals of Chapter 3
+0511.99|-- Other
